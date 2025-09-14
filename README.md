@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm  Hemant</h1>
-<p>I’m a Computer Science student in my second year with an interest in fullstack development, systems fundamentals, and machine learning. I enjoy building projects from scratch and seeing ideas move from prototype to something usable.</p>
+<p>I am a Computer Science student at Chandigarh University, currently in my second year. My main interests are fullstack development, systems fundamentals, and machine learning. I enjoy building projects from scratch and seeing ideas move from prototype to something usable.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
